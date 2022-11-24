@@ -1,0 +1,8 @@
+com\hmsystem\System\AdLogin.class
+com\hmsystem\System\PatientController.class
+com\hmsystem\System\AdminController.class
+com\hmsystem\System\IndexController.class
+com\hmsystem\System\Patient.class
+com\hmsystem\System\repository\PatientRepository.class
+com\hmsystem\System\HospitalManagementSystemApplication.class
+com\hmsystem\System\LoginController.class
