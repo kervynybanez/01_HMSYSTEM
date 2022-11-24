@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fcedb652-549a-413e-80db-37ba5118bfd8" name="hmsystem" url="http://localhost">
+        <fileTransfer mountedRoot="C:\IntelliJ\01_HMSYSTEM" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
